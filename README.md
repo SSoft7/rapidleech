@@ -1,15 +1,14 @@
 ## Disclaimer
 
-### This is non longer mantained and _may contain insecure code/validations_ 
+### This project is forked from the official repo to allow other users to maintain it as the original repo is now read-only.
 
-Switched to Read-only thanks to *user(s)* from  _external sites_ that can't see the [**Issues**] and [**Pull requests**] tabs
-And mainly, the lack of time/motivation to continue on it ~~(and stress from even thinking of it)~~
+This original project is no longer maintained and we are looking for maintainers.
 
-Please abstain from contacting me for RL related stuff, thanks.
+If you are willing to become a maintainer you can send an email to ept6f5mugkd3 [at] opayq [dot] com
 
 # Rapidleech
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Th3-822/rapidleech?label=last%20update)](https://github.com/Th3-822/rapidleech/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SSoft7/rapidleech?label=last%20update)](https://github.com/SSoft7/rapidleech/commits/master)
 [![Support Forum](https://img.shields.io/badge/Support%20Forum-Click%20Here-blue)](https://rapidleech.com/forum/)
 
 Rapid Leech is a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others. The famous Rapidleech script transfers files from Other Filehosting Servers To Your Server via your fast servers connection speed and dumps the file on your server. You may then download these files from your server anytime later.
