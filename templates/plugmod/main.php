@@ -59,7 +59,7 @@ if ( !empty ( $premium_acc ) )
 </table>
 <br />
 <?php
-}
+} else $premium_acc = array();
 ?>
 
 <?php
